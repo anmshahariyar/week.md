@@ -1,4 +1,4 @@
-## 4.4 Ethical Issues
+## 4.4 Ethical Issues  
 
 ### 4.4.1 Identify Issues with Data Collection
 
